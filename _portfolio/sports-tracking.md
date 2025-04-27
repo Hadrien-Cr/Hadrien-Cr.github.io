@@ -8,7 +8,7 @@ collection: portfolio
 ## What is it?
 In this project, we tried to implement a robust tracking method for tracking players with top-view cameras. 
 
-<img src="/images\PF1\tracking1.png" width=400>
+<img src="/images\portfolio\tracking.png" width=500>
 
 ## What makes it special?
 We noticed that **SOTA deep-learning methods were not suitable** for this task and we relied on non-deep-learning methods. 
