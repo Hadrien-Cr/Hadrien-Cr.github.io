@@ -12,4 +12,7 @@ In this project, we tried to implement a robust tracking method for tracking pla
 
 ## What makes it special?
 We noticed that **SOTA deep-learning methods were not suitable** for this task and we relied on non-deep-learning methods. 
-[Our Repository](https://github.com/etienne-bnd/computer_vision)
+
+[Repository](https://github.com/etienne-bnd/computer_vision)
+
+[Report](https://hadrien-cr.github.io/files/tracking_report.pdf)
